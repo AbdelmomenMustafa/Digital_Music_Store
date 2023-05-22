@@ -33,27 +33,10 @@ The database schema represents the structure and relationships of the tables in 
 
 
 ## Results and Insights
-During the analysis of the digital music store's database, several key insights were obtained. Some notable findings included:<br\>
+During the analysis of the digital music store's database, several key insights were obtained. Some notable findings included in summary.bdf file
 
 
 ## Technologies Used
 - SQL
-- [List any additional technologies or frameworks used]
+- SQLite
 
-## Acknowledgments
-- [Mention any resources, tutorials, or references used]
-
-## License
-This project is licensed under the [insert license name]. Please refer to the LICENSE file for more information.
-
-## Contact Information
-For any questions or feedback, feel free to reach out to me at [insert your email address or GitHub username].
-
-
-
-All of the below instructions are discussed in detail as I work through this lesson on my way to completing this project. The below serves as a quick reference of what I will be doing as I progress through the completion of this project.
-
-Instructions
-I will need to follow the instructions on the next three concepts to get the Chinook database up and running on my own machine and check that it is set up correctly. There will be two parts to this project.
-The first part is a series of questions that will assure I have mastered the main concepts taught throughout the SQL lessons. Though these questions will not be "graded" by a reviewer, they will help me self-assess.
-The second part is a presentation. Similar to the first project, there isn't a 'right answer' for the second portion of the project. I have the ability to be creative in the questions I ask. I will then write a SQL query to pull the data needed to answer my question successfully. Use the pulled data to build a visual (bar chart, histogram, or another plot) that answers my question. The essentials of my project submission are discussed in the next sections. To review my presentation, I will need to save my slides as a **PDF**.
